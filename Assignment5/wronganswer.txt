@@ -1,0 +1,58 @@
+reinforce	강화시키다	5
+invent	발명하다/ 만들다	3
+regional	지역적인	3
+trainer	훈련자	3
+lately	최근에	3
+consideration	고려/ 생각	3
+sociable	사교적인	1
+considerable	상당한	1
+press	누르다/ 언론/ 출판	1
+consideration	고려/ 생각	1
+society	사회	1
+regional	지역적인	1
+instead of	～대신에	1
+social	사회적인	1
+these days	최근에	1
+lawful	법적인	1
+train	기차/ 훈련시키다	1
+enlighten	계몽시키다 개화시키다	1
+religion	종교	1
+in the place of	～대신에	1
+suppress	저하시키다	1
+nowadays	최근에	1
+male	남성의	1
+endow	부여하다/ 기부하다	1
+socialize	사회화하다	1
+state	상태/ 진술하다	1
+explain	설명하다	1
+educational	교육적인	1
+frankly speaking	솔직히 말하여	1
+regional	지역적인	1
+train	기차/ 훈련시키다	1
+inherit	상속하다/ 이어받다	1
+region	지역	1
+castle	성	1
+socialize	사회화하다	1
+statement	진술	1
+male	남성의	1
+legal	합법적인	1
+endow	부여하다/ 기부하다	1
+press	누르다/ 언론/ 출판	1
+instead of	～대신에	1
+intelligent	지적인	1
+melon	멜론	1
+invent	발명하다/ 만들다	1
+water	물	1
+rib	갈비뼈	1
+state	상태/ 진술하다	1
+symbolic	상징적인	1
+press	누르다/ 언론/ 출판	1
+society	사회	1
+invention	발명	1
+phone	핸드폰	1
+endowment	기부/ 기증	1
+religion	종교	1
+social	사회적인	1
+society	사회	1
+suppress	저하시키다	1
+enlighten	계몽시키다 개화시키다	1
